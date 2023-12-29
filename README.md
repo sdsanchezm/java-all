@@ -1,6 +1,18 @@
 # java-all
 java documentation repo
 
+
+## Linux install
+
+- check version
+  - `java --version`
+- Fedora jdk latest install
+  - `sudo dnf install java-latest-openjdk`
+- select the version
+  - `sudo alternatives --config java`
+- compile
+  - `java hw1.java`
+
 ## MISC
 
 - Editors (just for reference)
